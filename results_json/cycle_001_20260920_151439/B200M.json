@@ -1,0 +1,57 @@
+{
+  "cycle": 1,
+  "timestamp": "2026-09-20 15:14:39",
+  "index": 7,
+  "total": 54,
+  "brand": "B200M",
+  "status": {
+    "completed": 6,
+    "balance": 48,
+    "total": 54
+  },
+  "search_url": "https://www.google.com/search?q=B200M&sca_esv=306360304c71a31f&sxsrf=APpeQntoKhbzDj-Nff5eHFt0uPgyIS-g-Q%3A1789897486280&source=hp&ei=DquvatjKD_uZ4-EPpe3SuQY&iflsig=ABILxe8AAAAAaq-5HpdW4qNmq5e9nijpHG82qpBkECJM&ved=0ahUKEwjYiene7_yWAxX7zDgGHaW2NGcQ4dUDCBs&uact=5&oq=B200M&gs_lp=Egdnd3Mtd2l6IgVCMjAwTTIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARIlQRQBVimA3AAeACQAQCYAV2gAdEDqgEBNrgBA8gBAPgBAZgCBqAC4gOoAgTCAgoQLhgDGI8BGOoCwgIKEAAYAxiPARjqAsICCxAAGIAEGIoFGJECwgIREC4YgAQYigUYkQIYxwEYrwHCAhEQABiABBiKBRiRAhixAxiDAcICCBAAGIAEGLQHwgIOEC4YgAQYsQMYxwEY0QPCAg4QABiABBiKBRixAxiDAcICCxAuGIAEGMcBGNEDwgIIEAAYgAQYsQOYA0PxBYoLti-W2y_okgcBNqAHsjSyBwE2uAfiA8IHBTEuNC4xyAcMgAgB&sclient=gws-wiz",
+  "screenshot": "screenshots\\cycle_001_20260920_151439\\B200M.png",
+  "results_count": 8,
+  "results": [
+    {
+      "rank": 1,
+      "title": "B200M",
+      "url": "https://www.openvoxtech.com/products/telephony-cards/hybrid-cards/145-b200m-hybrid"
+    },
+    {
+      "rank": 2,
+      "title": "B200m",
+      "url": "https://www.facebook.com/p/B200m-61581305557288/"
+    },
+    {
+      "rank": 3,
+      "title": "MTP-B200M Opsi | CASIO INDONESIA",
+      "url": "https://www.casio.com/id/watches/options/option.MTP-B200M/"
+    },
+    {
+      "rank": 4,
+      "title": "B200M : Server Thailand Situs Termantap Games Online ...",
+      "url": "https://tr.pinterest.com/pin/413557178267650635/"
+    },
+    {
+      "rank": 5,
+      "title": "Beli B200m Online Harga Terbaik",
+      "url": "https://www.lazada.co.id/tag/b200m/"
+    },
+    {
+      "rank": 6,
+      "title": "B200m Slot",
+      "url": "https://www.instagram.com/popular/b200m-slot/?hl=en"
+    },
+    {
+      "rank": 7,
+      "title": "MTP-B200M-7E | CASIO INDONESIA",
+      "url": "https://www.casio.com/id/watches/casio/product.MTP-B200M-7E/"
+    },
+    {
+      "rank": 8,
+      "title": "B200m Login",
+      "url": "https://www.instagram.com/popular/b200m-login/"
+    }
+  ]
+}

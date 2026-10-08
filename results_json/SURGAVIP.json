@@ -1,0 +1,45 @@
+{
+  "index": 47,
+  "total": 54,
+  "brand": "SURGAVIP",
+  "status": {
+    "completed": 48,
+    "balance": 6,
+    "total": 54
+  },
+  "search_url": "https://www.google.com/search?q=SURGAVIP&sca_esv=a9d93d3da37a6f94&source=hp&ei=b3irasaRB-OohvcPvsy5qAs&iflsig=ABILxe8AAAAAaquGf07zMRyfjJxihRjlo5K7EA8Q5DuN&ved=0ahUKEwiGhbbz7vSWAxVjlOEIHT5mDrUQ4dUDCBs&uact=5&oq=SURGAVIP&gs_lp=Egdnd3Mtd2l6IghTVVJHQVZJUEi4GVDEBFjuE3ABeACQAQCYAYYBoAHtB6oBAzAuOLgBA8gBAPgBAZgCBaAChAWoAgDCAgoQABiABBiKBRhDwgIIEAAYgAQYsQPCAgUQABiABMICDhAAGIAEGIoFGI0GGLEDwgILEAAYgAQYsQMYgwHCAgsQLhiABBjHARjRA8ICDhAAGIAEGIoFGLEDGIMBmAMC8QWyXQ-9xILj2pIHAzAuNaAHhxSyBwMwLjW4B4QFwgcFMC4zLjLIBxSACAE&sclient=gws-wiz",
+  "screenshot": "screenshots\\SURGAVIP.png",
+  "results_count": 6,
+  "results": [
+    {
+      "rank": 1,
+      "title": "SURGAVIP - Feedback Tracker - Bohemia Interactive",
+      "url": "https://feedback.bistudio.com/dashboard/arrange/21483/"
+    },
+    {
+      "rank": 2,
+      "title": "mayan jalur surga vip",
+      "url": "https://www.instagram.com/reel/DTSUtvNEzE1/"
+    },
+    {
+      "rank": 3,
+      "title": "SURGAVIP | Arena Combat Digital Dengan Kontrol Maksimal",
+      "url": "https://desain.sweethomedesign.casa/"
+    },
+    {
+      "rank": 4,
+      "title": "manda mintol - S-U-R-G-A V-I-P 8 8",
+      "url": "https://www.facebook.com/61566575048356/videos/-s-u-r-g-a-v-i-p-8-8-/1323254656115255/"
+    },
+    {
+      "rank": 5,
+      "title": "manda mintol - S-U-R-G-A V-I-P 8 8",
+      "url": "https://www.facebook.com/61566575048356/videos/-s-u-r-g-a-v-i-p-8-8-/1333450131474612/"
+    },
+    {
+      "rank": 6,
+      "title": "Heart Craft",
+      "url": "https://mariasplace.com/heart-craft/"
+    }
+  ]
+}

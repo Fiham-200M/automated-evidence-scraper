@@ -1,0 +1,20 @@
+{
+  "index": 3,
+  "total": 54,
+  "brand": "ASIA200",
+  "status": {
+    "completed": 3,
+    "balance": 51,
+    "total": 54
+  },
+  "search_url": "https://www.google.com/search?q=ASIA200&sca_esv=a9d93d3da37a6f94&source=hp&ei=PHirarTsBZuVhvcPg4_diQ0&iflsig=ABILxe8AAAAAaquGTAYjU72U0ZCGsj91K60ODtmr_UNb&ved=0ahUKEwi0-ovb7vSWAxWbiuEIHYNHN9EQ4dUDCBs&uact=5&oq=ASIA200&gs_lp=Egdnd3Mtd2l6IgdBU0lBMjAwSOkQUJkDWOELcAF4AJABAJgBngGgAZcHqgEDMC43uAEDyAEA-AEBmAIGoAKtBagCCsICChAuGAMYjwEY6gLCAgoQABgDGI8BGOoCwgILEAAYgAQYsQMYgwHCAgsQLhiABBixAxiDAcICCBAAGIAEGLEDwgIFEAAYgATCAg4QLhiABBiKBRixAxiDAcICFBAuGIAEGIoFGLEDGIMBGMcBGNEDwgIOEC4YgAQYsQMYxwEY0QPCAgUQLhiABMICCBAuGIAEGLEDwgIIEAAYgAQYtAfCAg4QABiABBiKBRiNBhixA8ICDhAAGIAEGIoFGLEDGIMBwgIREAAYgAQYigUYjQYYsQMYgwHCAgcQABiABBgKmAMI8QUobxQvYbCwZJIHAzEuNaAH5CyyBwMwLjW4B6QFwgcFMS40LjHIBw2ACAE&sclient=gws-wiz",
+  "screenshot": "screenshots\\ASIA200.png",
+  "results_count": 1,
+  "results": [
+    {
+      "rank": 1,
+      "title": "ASIA200 CLAIM BONUS HARIAN 10% LINK SLOT88 ...",
+      "url": "https://daftar.asia200-bandar.com/"
+    }
+  ]
+}

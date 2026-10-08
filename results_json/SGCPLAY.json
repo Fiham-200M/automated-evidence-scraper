@@ -1,0 +1,55 @@
+{
+  "index": 30,
+  "total": 54,
+  "brand": "SGCPLAY",
+  "status": {
+    "completed": 30,
+    "balance": 24,
+    "total": 54
+  },
+  "search_url": "https://www.google.com/search?q=SGCPLAY&sca_esv=a9d93d3da37a6f94&source=hp&ei=WXiraunWNfmthvcPkqWO-QY&iflsig=ABILxe8AAAAAaquGacOr6T7nHLtBHuh0BpJ2KvmS4HNy&ved=0ahUKEwip56Xp7vSWAxX5luEIHZKSI28Q4dUDCBs&uact=5&oq=SGCPLAY&gs_lp=Egdnd3Mtd2l6IgdTR0NQTEFZSPoZUOkDWNcRcAF4AJABAJgBiQOgAbUQqgEFMi01LjK4AQPIAQD4AQGYAgagAsoMqAIBwgIKEAAYAxiPARjqAsICBRAAGIAEwgIIEAAYgAQYsQPCAgsQABiABBixAxiDAcICBRAuGIAEwgIOEC4YgAQYsQMYxwEY0QPCAg4QLhiABBjHARivARiOBcICCxAuGIAEGMcBGK8BwgIHEAAYgAQYCpgDA_EF9lEGUdSnOiKSBwcxLjAuMy4yoAfQFrIHBTItMy4yuAfGDMIHBTEuMy4yyAcOgAgB&sclient=gws-wiz",
+  "screenshot": "screenshots\\SGCPLAY.png",
+  "results_count": 9,
+  "results": [
+    {
+      "rank": 1,
+      "title": "SGCPLAY : Situs aman dan terpercaya SGC GROUP",
+      "url": "https://www.sgcplay.com/"
+    },
+    {
+      "rank": 2,
+      "title": "SGC Play - Aplikasi di Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.appsgc&hl=id"
+    },
+    {
+      "rank": 3,
+      "title": "Sgcplay Alternatif",
+      "url": "https://www.instagram.com/popular/sgcplay-alternatif/"
+    },
+    {
+      "rank": 4,
+      "title": "SGC Play - Aplikasi di Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.logicahost.sgcplay&hl=id"
+    },
+    {
+      "rank": 5,
+      "title": "Sgc Play Slot",
+      "url": "https://www.instagram.com/popular/sgc-play-slot/"
+    },
+    {
+      "rank": 6,
+      "title": "SGC Play APK untuk Unduhan Android",
+      "url": "https://apkpure.com/id/sgc-play/com.appsgc"
+    },
+    {
+      "rank": 7,
+      "title": "SGC",
+      "url": "https://gosgc.com/login/"
+    },
+    {
+      "rank": 8,
+      "title": "Itoussaint's blog",
+      "url": "https://turning-talk-com.pages.dev/blogs/itoussaint/"
+    }
+  ]
+}

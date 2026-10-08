@@ -1,0 +1,27 @@
+{
+  "cycle": 1,
+  "timestamp": "2026-09-20 15:16:12",
+  "index": 40,
+  "total": 54,
+  "brand": "SURGA5000",
+  "status": {
+    "completed": 52,
+    "balance": 2,
+    "total": 54
+  },
+  "search_url": "https://www.google.com/search?q=SURGA5000&sca_esv=306360304c71a31f&sxsrf=APpeQntwFCcK70487iL4w3v9wbmKMMVYsQ%3A1789897681526&source=hp&ei=0auvavToHqSb4-EPxcf0iAk&iflsig=ABILxe8AAAAAaq-54WAvSY7lyvhRmKNV5xTr5Bc5qI3l&ved=0ahUKEwi0lfa78PyWAxWkzTgGHcUjHZEQ4dUDCBs&uact=5&oq=SURGA5000&gs_lp=Egdnd3Mtd2l6IglTVVJHQTUwMDBIzgdQBljhBnABeACQAQCYAc4CoAHoEKoBBTItMi41uAEDyAEA-AEBmAIGoALEDqgCAMICCBAAGIAEGLEDwgIKEAAYgAQYigUYQ8ICCxAAGIAEGLEDGIMBwgIFEAAYgATCAgUQLhiABMICCxAuGIAEGMcBGNEDwgIHEAAYgAQYCpgDAfEFdfa7rspWfw6SBwUyLTIuNKAHyxayBwUyLTIuNLgHxA7CBwUyLjMuMcgHDYAIAQ&sclient=gws-wiz",
+  "screenshot": "screenshots\\cycle_001_20260920_151612\\SURGA5000.png",
+  "results_count": 2,
+  "results": [
+    {
+      "rank": 1,
+      "title": "SURGA5000 | Menangkan Slot Gacor Deposit 5000 Game ...",
+      "url": "https://www.surga5000.com/"
+    },
+    {
+      "rank": 2,
+      "title": "Understanding Residential Metal Fabrication",
+      "url": "https://excel-steel.com/residential-metal-fabrication-the-ins-and-outs-of-custom-steelwork/"
+    }
+  ]
+}

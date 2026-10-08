@@ -1,0 +1,62 @@
+{
+  "cycle": 1,
+  "timestamp": "2026-09-20 15:14:39",
+  "index": 10,
+  "total": 54,
+  "brand": "D200M",
+  "status": {
+    "completed": 10,
+    "balance": 44,
+    "total": 54
+  },
+  "search_url": "https://www.google.com/search?q=D200M&sca_esv=306360304c71a31f&sxsrf=APpeQns253dleYQCMELogP6nQHbzjzYYrA%3A1789897489368&source=hp&ei=EauvauTvFKK74-EPxNeVoA0&iflsig=ABILxe8AAAAAaq-5IX3RmhcmUvyeXnU5JynMMD__3opz&ved=0ahUKEwikvKXg7_yWAxWi3TgGHcRrBdQQ4dUDCBs&uact=5&oq=D200M&gs_lp=Egdnd3Mtd2l6IgVEMjAwTTIFEAAYgAQyBRAAGIAESIYEUBpYmwNwAXgAkAEAmAFcoAGbA6oBATW4AQPIAQD4AQGYAgagArUDqAIFwgIKEC4YAxiPARjqAsICChAAGAMYjwEY6gLCAhEQABiABBiKBRiRAhixAxiDAcICDhAAGIAEGIoFGJECGLEDwgILEAAYgAQYigUYkQLCAggQABiABBixA8ICBBAAGAPCAg4QLhiABBixAxjHARjRA8ICCxAAGIAEGIoFGLEDwgIIEAAYgAQYtAfCAgsQLhiABBjHARivAZgDCvEF2jJVlOioDDqSBwE2oAfUFLIHATW4B6sDwgcHMy4yLjAuMcgHD4AIAQ&sclient=gws-wiz",
+  "screenshot": "screenshots\\cycle_001_20260920_151439\\D200M.png",
+  "results_count": 9,
+  "results": [
+    {
+      "rank": 1,
+      "title": "BENDER D 200 M , D200M A-ISOMETER ...",
+      "url": "https://www.ebay.com/itm/197014198499"
+    },
+    {
+      "rank": 2,
+      "title": "D200M-120/2083YT Ditek Modular 120/208 VAC, 3 Phase ...",
+      "url": "https://falcontech.com/products/d200m-120-2083yt-ditek-modular-120-208-vac-3-phase-wye-with-integral-disconnect-4w-g-200ka-spd-type-1-ul1449-listed?srsltid=AU7gw4W0ENflxx480rw5uOBuUYBJ12UYFhSohOgIrtTjsDs7e6jaCPZE"
+    },
+    {
+      "rank": 3,
+      "title": "Ditek D200M-120-2401 | Modular Surge Protective Device ...",
+      "url": "https://www.alldataresource.com/Ditek-D200M-120-2401-Modular-Surge-Protective-Device-120240-VAC-Split-Phase_p_533803.html?srsltid=AU7gw4VtjhDKdFFZTXpXQsI6Jsqs-2i7B_Cj6EQI5Fh4MZJB46hMCQTm"
+    },
+    {
+      "rank": 4,
+      "title": "DITEK D200M-2403D",
+      "url": "https://firealarm.com/product/ditek-d200m-2403d/?srsltid=AU7gw4V27Ecnllw_wa_AcY2AaY8OOG0icBjv1m46Yrd0bxcJNrpb420e"
+    },
+    {
+      "rank": 5,
+      "title": "D200M Series Modular Surge Protective Device 50/60Hz ...",
+      "url": "https://www.graybar.com/d200m-series-modular-surge-protective-device-50-60hz-200ka-13-52-l-x-12-98-w-x-6-29-d-in-/p/26395855"
+    },
+    {
+      "rank": 6,
+      "title": "DITEK's D200MT Industrial Surge Protectors, with",
+      "url": "https://objects.eanixter.com/PD607800.PDF"
+    },
+    {
+      "rank": 7,
+      "title": "D200M Markas Para Pencari Maxwin, Dan Lagi Ramai ...",
+      "url": "https://www.pinterest.com/pin/350084571027327245/"
+    },
+    {
+      "rank": 8,
+      "title": "D200MT Series",
+      "url": "https://www.diteksurgeprotection.com/product-series/d200mt-series/"
+    },
+    {
+      "rank": 9,
+      "title": "Ditek D200M-4803DT | Modular Surge Protective Device ...",
+      "url": "https://www.alldataresource.com/Ditek-D200M-4803DT-Modular-Surge-Protective-Device-480-VAC-3-Phase-Delta-with-Integral-Disconnect_p_533809.html?srsltid=AU7gw4VKhHRD8E4z7DqWl3J65e1u_G_pXcFXwO5cQ7spQZ1z7jdI_MTu"
+    }
+  ]
+}

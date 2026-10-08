@@ -1,0 +1,42 @@
+{
+  "cycle": 1,
+  "timestamp": "2026-09-20 15:16:12",
+  "index": 31,
+  "total": 54,
+  "brand": "SGCVIP",
+  "status": {
+    "completed": 30,
+    "balance": 24,
+    "total": 54
+  },
+  "search_url": "https://www.google.com/search?q=SGCVIP&sca_esv=306360304c71a31f&sxsrf=APpeQnuio0UsXBMz2F_-IColdPOclOJT4Q%3A1789897657628&source=hp&ei=uauvatnMJL2q4-EP15SJOA&iflsig=ABILxe8AAAAAaq-5yTBTkLorBvgn42OiV8-iRBaLYb19&ved=0ahUKEwiZjcOw8PyWAxU91TgGHVdKAgcQ4dUDCBs&uact=5&oq=SGCVIP&gs_lp=Egdnd3Mtd2l6IgZTR0NWSVBIpQtQOViyB3ABeACQAQCYAYwBoAGYBqoBAzAuNrgBA8gBAPgBAZgCBKACvASoAgDCAgUQABiABMICCBAAGIAEGLEDwgINEAAYgAQYigUYQxixA8ICCxAAGIAEGLEDGIMBwgIOEC4YgAQYsQMYxwEY0QPCAg4QLhiABBjHARivARiOBcICCxAuGIAEGMcBGK8BmAMC8QXT5fZFvSMfwJIHAzAuNKAHvxOyBwMwLjS4B7wEwgcFMC4yLjLIBxCACAE&sclient=gws-wiz",
+  "screenshot": "screenshots\\cycle_001_20260920_151612\\SGCVIP.png",
+  "results_count": 5,
+  "results": [
+    {
+      "rank": 1,
+      "title": "SGCVIP - SITUS VIP",
+      "url": "https://www.sgcvip.net/"
+    },
+    {
+      "rank": 2,
+      "title": "Well that was unexpected",
+      "url": "https://tap.bio/@sgcvip"
+    },
+    {
+      "rank": 3,
+      "title": "GSC108 : Perusahaan Software Engineering Trusted untuk ...",
+      "url": "https://engineer.isisoftcompany.pro/"
+    },
+    {
+      "rank": 4,
+      "title": "SGC",
+      "url": "https://gosgc.com/login/"
+    },
+    {
+      "rank": 5,
+      "title": "SGCSLOT Gaya Baru Dengan Pesona Yang Bikin Terpikat",
+      "url": "https://whisperfamily.pages.dev/"
+    }
+  ]
+}

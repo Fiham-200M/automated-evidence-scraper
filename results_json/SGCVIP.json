@@ -1,0 +1,45 @@
+{
+  "index": 31,
+  "total": 54,
+  "brand": "SGCVIP",
+  "status": {
+    "completed": 31,
+    "balance": 23,
+    "total": 54
+  },
+  "search_url": "https://www.google.com/search?q=SGCVIP&sca_esv=a9d93d3da37a6f94&source=hp&ei=W3irathW4JqG9w-pntjoDg&iflsig=ABILxe8AAAAAaquGayr4oM5aCievkZ0v0fp9nXRtEYVo&ved=0ahUKEwiY8Orp7vSWAxVgjeEIHSkPFu0Q4dUDCBs&uact=5&oq=SGCVIP&gs_lp=Egdnd3Mtd2l6IgZTR0NWSVBIoSpQigVYhxxwAXgAkAEAmAGUAqABvQyqAQMyLTa4AQPIAQD4AQGYAgSgAsgIqAIAwgIFEAAYgATCAggQABiABBixA8ICCxAAGIAEGLEDGIMBwgIFEC4YgATCAg4QLhiABBixAxjHARjRA8ICDhAuGIAEGMcBGK8BGI4FwgILEC4YgAQYxwEYrwGYAwHxBT-3FpxuXeYZkgcDMi00oAfcFbIHAzItNLgHyAjCBwcwLjEuMi4xyAcSgAgB&sclient=gws-wiz",
+  "screenshot": "screenshots\\SGCVIP.png",
+  "results_count": 6,
+  "results": [
+    {
+      "rank": 1,
+      "title": "SGCVIP - SITUS VIP",
+      "url": "https://www.sgcvip.net/"
+    },
+    {
+      "rank": 2,
+      "title": "SGCVIP | Jalur Cepat Menuju Bandar Togel Online Resmi",
+      "url": "https://bidtik.kepri.polri.go.id/adsense/"
+    },
+    {
+      "rank": 3,
+      "title": "Well that was unexpected",
+      "url": "https://tap.bio/@sgcvip"
+    },
+    {
+      "rank": 4,
+      "title": "GSC108 : Perusahaan Software Engineering Trusted untuk ...",
+      "url": "https://engineer.isisoftcompany.pro/"
+    },
+    {
+      "rank": 5,
+      "title": "SGC",
+      "url": "https://gosgc.com/login/"
+    },
+    {
+      "rank": 6,
+      "title": "SGCSLOT Gaya Baru Dengan Pesona Yang Bikin Terpikat",
+      "url": "https://whisperfamily.pages.dev/"
+    }
+  ]
+}

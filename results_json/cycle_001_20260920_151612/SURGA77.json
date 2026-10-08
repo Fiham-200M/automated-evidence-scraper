@@ -1,0 +1,32 @@
+{
+  "cycle": 1,
+  "timestamp": "2026-09-20 15:16:12",
+  "index": 42,
+  "total": 54,
+  "brand": "SURGA77",
+  "status": {
+    "completed": 53,
+    "balance": 1,
+    "total": 54
+  },
+  "search_url": "https://www.google.com/search?q=SURGA77&sca_esv=306360304c71a31f&sxsrf=APpeQnsCgvRU45_WMNXen36khzM5cgiNBA%3A1789897683704&source=hp&ei=06uvao7dKY28juMPlpSl2Ao&iflsig=ABILxe8AAAAAaq-54yyxtLggaxpSnSDPmT8eOGDF5n7S&ved=0ahUKEwjOkvu88PyWAxUNnmMGHRZKCasQ4dUDCBs&uact=5&oq=SURGA77&gs_lp=Egdnd3Mtd2l6IgdTVVJHQTc3MggQABiABBixAzIFEAAYgAQyBRAAGIAESNQGUBFY1QVwAHgAkAEAmAHMAqAB1QmqAQUyLTIuMrgBA8gBAPgBAZgCBKAC3wmoAgDCAg4QLhiABBjHARivARiOBcICCxAuGIAEGMcBGNEDmAMAkgcFMi0xLjOgB6cRsgcFMi0xLjO4B98JwgcFMS4yLjHIBwaACAE&sclient=gws-wiz",
+  "screenshot": "screenshots\\cycle_001_20260920_151612\\SURGA77.png",
+  "results_count": 3,
+  "results": [
+    {
+      "rank": 1,
+      "title": "SURGA77 : Situs Slot Online Deposit Slot77 Terpercaya ...",
+      "url": "https://www.surga77-star.com/"
+    },
+    {
+      "rank": 2,
+      "title": "Surga77 Online Account Management | PDF",
+      "url": "https://www.scribd.com/document/833692842/SURGA77"
+    },
+    {
+      "rank": 3,
+      "title": "Heart Craft",
+      "url": "https://mariasplace.com/heart-craft/"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "cycle": 2,
+  "timestamp": "2026-09-20 15:21:13",
+  "index": 30,
+  "total": 54,
+  "brand": "SGCPLAY",
+  "status": {
+    "completed": 26,
+    "balance": 28,
+    "total": 54
+  },
+  "search_url": "https://www.google.com/search?q=SGCPLAY&sca_esv=306360304c71a31f&sxsrf=APpeQnumaJltguc-Uk8d5_IUvEqNvbR13g%3A1789897957082&source=hp&ei=5ayvap-qA7HF4-EPj7-s6AM&iflsig=ABILxe8AAAAAaq-69b4nMcx2QI-MphBIBgATmWqhmyOC&ved=0ahUKEwjfsKi_8fyWAxWx4jgGHY8fCz0Q4dUDCBs&uact=5&oq=SGCPLAY&gs_lp=Egdnd3Mtd2l6IgdTR0NQTEFZSNUPUKEBWOIOcAF4AJABAJgBmAGgAY0GqgEDMC42uAEDyAEA-AEBmAIGoAKrBagCAcICChAAGAMYjwEY6gLCAgUQABiABMICCBAAGIAEGLEDwgILEAAYgAQYsQMYgwHCAgUQLhiABMICDhAuGIAEGLEDGMcBGNEDwgIKEAAYgAQYigUYQ8ICDhAuGIAEGMcBGK8BGI4FwgIHEAAYgAQYCpgDBfEFbB3xLNpyvD-SBwMxLjWgB9IVsgcDMC41uAemBcIHBzIuMS4yLjHIBxqACAE&sclient=gws-wiz",
+  "screenshot": "screenshots\\cycle_002_20260920_152113\\SGCPLAY.png",
+  "results_count": 8,
+  "results": [
+    {
+      "rank": 1,
+      "title": "SGCPLAY : Situs aman dan terpercaya SGC GROUP",
+      "url": "https://www.sgcplay.com/"
+    },
+    {
+      "rank": 2,
+      "title": "SGC Play - Aplikasi di Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.logicahost.sgcplay&hl=id"
+    },
+    {
+      "rank": 3,
+      "title": "Sgcplay Alternatif",
+      "url": "https://www.instagram.com/popular/sgcplay-alternatif/"
+    },
+    {
+      "rank": 4,
+      "title": "SGC Play - Aplikasi di Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.appsgc&hl=id"
+    },
+    {
+      "rank": 5,
+      "title": "SGC Play APK untuk Unduhan Android",
+      "url": "https://apkpure.com/id/sgc-play/com.appsgc"
+    },
+    {
+      "rank": 6,
+      "title": "Sgc Play Slot",
+      "url": "https://www.instagram.com/popular/sgc-play-slot/"
+    },
+    {
+      "rank": 7,
+      "title": "SGC",
+      "url": "https://gosgc.com/login/"
+    },
+    {
+      "rank": 8,
+      "title": "Aplikasi Android dari Portal SGC di Google Play",
+      "url": "https://play.google.com/store/apps/developer?id=Portal+SGC&hl=id"
+    }
+  ]
+}

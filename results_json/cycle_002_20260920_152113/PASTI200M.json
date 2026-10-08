@@ -1,0 +1,37 @@
+{
+  "cycle": 2,
+  "timestamp": "2026-09-20 15:21:13",
+  "index": 28,
+  "total": 54,
+  "brand": "PASTI200M",
+  "status": {
+    "completed": 34,
+    "balance": 20,
+    "total": 54
+  },
+  "search_url": "https://www.google.com/search?q=PASTI200M&sca_esv=306360304c71a31f&sxsrf=APpeQnsTFtIE4NGk882m-9fsQFSrkZ9J0A%3A1789897953138&source=hp&ei=4ayvavyBB4H34-EP9r6HuAk&iflsig=ABILxe8AAAAAaq-68XC2JkGmDmSTnAfrw74MTpXHV0w9&ved=0ahUKEwi89re98fyWAxWB-zgGHXbfAZcQ4dUDCBs&uact=5&oq=PASTI200M&gs_lp=Egdnd3Mtd2l6IglQQVNUSTIwME1IkAlQCVj5B3ABeACQAQCYAZgBoAGnCaoBAzAuObgBA8gBAPgBAZgCBqACzAaoAgDCAggQABiABBixA8ICBRAuGIAEwgIKEAAYgAQYigUYQ8ICBRAAGIAEwgILEAAYgAQYsQMYgwHCAg4QLhiABBiKBRixAxiDAcICDhAAGIAEGIoFGLEDGIMBwgIOEC4YgAQYxwEYrwEYjgXCAhEQABiABBiKBRiNBhixAxiDAcICCBAuGIAEGLEDwgIEEAAYA8ICERAuGIAEGLEDGMcBGK8BGI4FwgILEC4YgAQYsQMYgwHCAggQABiABBi0B8ICBxAAGIAEGAqYAwHxBYXGpJZoAc6jkgcDMC42oAfJNrIHAzAuNrgHzAbCBwUxLjQuMcgHCoAIAQ&sclient=gws-wiz",
+  "screenshot": "screenshots\\cycle_002_20260920_152113\\PASTI200M.png",
+  "results_count": 4,
+  "results": [
+    {
+      "rank": 1,
+      "title": "PASTI200M | PASTI 200M | LOGIN PASTI200M | DAFTAR ...",
+      "url": "https://pasti200mwin.com/"
+    },
+    {
+      "rank": 2,
+      "title": "Pasti200m untuk Android - Unduh - Softonic",
+      "url": "https://pasti200m.softonic-id.com/android"
+    },
+    {
+      "rank": 3,
+      "title": "Rahasia Sukses Seru Bersama Pasti200 Supaya Untung Terus",
+      "url": "https://pasti200.onrender.com/"
+    },
+    {
+      "rank": 4,
+      "title": "PASTI200 # Aktivitas Interaktif Populer Opsi Pas Waktu Luang",
+      "url": "https://pasti-jackpot-pasti200net.pages.dev/"
+    }
+  ]
+}

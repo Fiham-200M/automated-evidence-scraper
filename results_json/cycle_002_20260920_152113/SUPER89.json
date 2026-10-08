@@ -1,0 +1,37 @@
+{
+  "cycle": 2,
+  "timestamp": "2026-09-20 15:21:13",
+  "index": 35,
+  "total": 54,
+  "brand": "SUPER89",
+  "status": {
+    "completed": 35,
+    "balance": 19,
+    "total": 54
+  },
+  "search_url": "https://www.google.com/search?q=SUPER89&sca_esv=306360304c71a31f&sxsrf=APpeQnvjixRWvbJdavwyn3PEyVJMOl1LRQ%3A1789897976564&source=hp&ei=-KyvarbwIIOu4-EP0e7kuAI&iflsig=ABILxe8AAAAAaq-7CMkw__B4CvaPzprLqqfmgM9PKm4D&ved=0ahUKEwi2zM3I8fyWAxUD1zgGHVE3GScQ4dUDCBs&uact=5&oq=SUPER89&gs_lp=Egdnd3Mtd2l6IgdTVVBFUjg5MggQLhiABBixAzIIEAAYgAQYsQMyBRAAGIAEMg4QLhiABBixAxjHARjRAzIIEAAYgAQYsQMyBRAAGIAEMg4QABiABBiKBRiNBhixAzIFEAAYgAQyBRAAGIAEMg4QABiABBiKBRiNBhixA0ijBlALWKwFcAF4AJABAZgBjAOgAbgJqgEHMC4yLjIuMbgBA8gBAPgBAZgCBKACwAaoAgDCAgsQABiABBixAxiDAcICBRAuGIAEwgIREAAYgAQYigUYjQYYsQMYgwGYAwLxBV-dhphMFvrkkgcFMC4yLjKgB58msgcFMC4yLjK4B8AGwgcFMC4xLjPIBxCACAE&sclient=gws-wiz",
+  "screenshot": "screenshots\\cycle_002_20260920_152113\\SUPER89.png",
+  "results_count": 4,
+  "results": [
+    {
+      "rank": 1,
+      "title": "Beli Super89 Online Harga Terbaik",
+      "url": "https://www.lazada.co.id/tag/super89/?page=5"
+    },
+    {
+      "rank": 2,
+      "title": "Contact",
+      "url": "https://www.super89films.com/contact"
+    },
+    {
+      "rank": 3,
+      "title": "Jual Super 89 Terbaru Indonesia | Jaket Semi Kulit ...",
+      "url": "https://www.lazada.co.id/tag/super-89/"
+    },
+    {
+      "rank": 4,
+      "title": "Situs Super88 Resmi : Pupuk Hemat Hasil Meningkat",
+      "url": "https://super-88.pjwah.com/"
+    }
+  ]
+}

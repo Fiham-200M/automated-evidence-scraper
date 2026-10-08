@@ -1,0 +1,67 @@
+{
+  "cycle": 1,
+  "timestamp": "2026-09-20 15:14:39",
+  "index": 4,
+  "total": 54,
+  "brand": "ASIA300",
+  "status": {
+    "completed": 7,
+    "balance": 47,
+    "total": 54
+  },
+  "search_url": "https://www.google.com/search?q=ASIA300&sca_esv=306360304c71a31f&sxsrf=APpeQntgvLOQsySDVwatloVn4HEdPEHUKA%3A1789897483192&source=hp&ei=C6uvaqeMCter4-EPmd316Ag&iflsig=ABILxe8AAAAAaq-5G64ySQ3k5hn1_LKG-xorgKq1eDg2&ved=0ahUKEwjnvazd7_yWAxXX1TgGHZluHY0Q4dUDCBs&uact=5&oq=ASIA300&gs_lp=Egdnd3Mtd2l6IgdBU0lBMzAwMgUQABiABEj-BVAIWK4FcAB4AJABAJgBW6AB3gSqAQE4uAEDyAEA-AEBmAIIoAL5BKgCBcICChAAGAMYjwEY6gLCAgoQLhgDGI8BGOoCwgIREC4YgAQYigUYkQIYxwEYrwHCAgsQABiABBiKBRiRAsICBBAAGAPCAggQABiABBi0B8ICDhAAGIAEGIoFGJECGLQHwgIFEC4YgATCAg4QLhiABBixAxjHARjRA8ICDhAuGIAEGIoFGLEDGIMBwgIOEC4YgAQYsQMYxwEYrwHCAggQABiABBixA8ICCxAuGIAEGLEDGIMBwgIOEAAYgAQYigUYsQMYgwHCAgsQLhivARjHARiABMICCxAAGIAEGLEDGIMBmAM98QU5MclkULmkbZIHATigB5NIsgcBOLgH-QTCBwUyLjMuM8gHE4AIAQ&sclient=gws-wiz",
+  "screenshot": "screenshots\\cycle_001_20260920_151439\\ASIA300.png",
+  "results_count": 10,
+  "results": [
+    {
+      "rank": 1,
+      "title": "Nikkei Asia300 Global Business Forum",
+      "url": "https://www.global-nikkei.com/asia3hp/asia300/"
+    },
+    {
+      "rank": 2,
+      "title": "Asia300 - Nikkei Asia - 日本経済新聞",
+      "url": "https://asia.nikkei.com/asia300"
+    },
+    {
+      "rank": 3,
+      "title": "Nikkei Asia300 ASEAN Index (USD (^NA300AS)",
+      "url": "https://finance.yahoo.com/quote/%5ENA300AS/"
+    },
+    {
+      "rank": 4,
+      "title": "So Nic (@asia300)",
+      "url": "https://www.facebook.com/asia300/"
+    },
+    {
+      "rank": 5,
+      "title": "Ася (@asia300) • Instagram photos and videos",
+      "url": "https://www.instagram.com/asia300/"
+    },
+    {
+      "rank": 6,
+      "title": "Asia300: What Are Their Views on an Open Asian ...",
+      "url": "https://www.ichongqing.info/2019/05/20/asia300-what-are-their-views-on-an-open-asian-economic-area/"
+    },
+    {
+      "rank": 7,
+      "title": "Asia300 Forum Gathers Asian Business and Political Leaders ...",
+      "url": "https://www.youtube.com/watch?v=8YdrNJuG3mk"
+    },
+    {
+      "rank": 8,
+      "title": "ASIA 300 Archives - Asian and Middle Eastern Studies",
+      "url": "https://asianstudies.unc.edu/crosslist/asia-300/"
+    },
+    {
+      "rank": 9,
+      "title": "Asia300, rated and ranked",
+      "url": "https://asia.nikkei.com/business/asia300-rated-and-ranked"
+    },
+    {
+      "rank": 10,
+      "title": "Asia300 Forum Gathers Asian Business and Political Leaders ...",
+      "url": "https://app.ichongqing.info/mixmedia/a/201905/17/WS632de164e4b09d511446463d.html"
+    }
+  ]
+}

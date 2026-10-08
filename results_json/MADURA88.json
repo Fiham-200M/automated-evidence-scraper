@@ -1,0 +1,20 @@
+{
+  "index": 23,
+  "total": 54,
+  "brand": "MADURA88",
+  "status": {
+    "completed": 24,
+    "balance": 30,
+    "total": 54
+  },
+  "search_url": "https://www.google.com/search?q=MADURA88&sca_esv=a9d93d3da37a6f94&source=hp&ei=UXirapGsOpu2hvcP-vi9kQY&iflsig=ABILxe8AAAAAaquGYegShA-bIi9hHLr0S9Itcf1m4AbL&ved=0ahUKEwjRmMLl7vSWAxUbm-EIHXp8L2IQ4dUDCBs&uact=5&oq=MADURA88&gs_lp=Egdnd3Mtd2l6IghNQURVUkE4OEjIHFDABljgEXABeACQAQCYAawBoAHLCKoBAzAuOLgBA8gBAPgBAZgCB6AC7gaoAgHCAgoQLhgDGI8BGOoCwgIIEC4YgAQYsQPCAhEQABiABBiKBRiNBhixAxiDAcICCxAAGIAEGLEDGIMBwgILEC4YgAQYsQMYgwHCAggQABiABBixA8ICFxAuGIAEGIoFGI0GGLEDGIMBGMcBGNEDwgIFEC4YgATCAgoQLhiABBiKBRhDwgIFEAAYgATCAg4QLhiABBixAxjHARjRA8ICDhAAGIAEGIoFGLEDGIMBwgILEC4YgAQYxwEYrwHCAggQABiABBjJA8ICCxAAGIAEGIoFGJIDmAMF8QVGUp8YqLCfUZIHAzEuNqAH4kOyBwMwLja4B-gGwgcFMC4zLjTIBxqACAE&sclient=gws-wiz",
+  "screenshot": "screenshots\\MADURA88.png",
+  "results_count": 1,
+  "results": [
+    {
+      "rank": 1,
+      "title": "MADU88 : @rockymtnprodrivers > Manisnya Jackpot Berpadu ...",
+      "url": "https://cuanmanis-madu88.pages.dev/"
+    }
+  ]
+}

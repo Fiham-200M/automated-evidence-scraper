@@ -1,0 +1,32 @@
+{
+  "cycle": 2,
+  "timestamp": "2026-09-20 15:21:13",
+  "index": 15,
+  "total": 54,
+  "brand": "FUFUSLOT",
+  "status": {
+    "completed": 14,
+    "balance": 40,
+    "total": 54
+  },
+  "search_url": "https://www.google.com/search?q=FUFUSLOT&sca_esv=306360304c71a31f&sxsrf=APpeQnsglCAVrNFlQKfHprwvUPcLdTS06A%3A1789897888439&source=hp&ei=oKyvat_CGZSW4-EPoLjpqAg&iflsig=ABILxe8AAAAAaq-6sEJLsfSYCc7y1PNRRCkzFEgJnn6a&ved=0ahUKEwjfksue8fyWAxUUyzgGHSBcGoUQ4dUDCBs&uact=5&oq=FUFUSLOT&gs_lp=Egdnd3Mtd2l6IghGVUZVU0xPVEiIB1AGWI8GcAB4AJABAJgBlQGgAYwIqgEDMC44uAEDyAEA-AEBmAIGoAK9BqgCA8ICChAuGAMYjwEY6gLCAgoQABgDGI8BGOoCwgILEAAYgAQYsQMYgwHCAgUQLhiABMICERAuGIAEGLEDGIMBGMcBGNEDwgIREC4YgAQYigUYjQYYsQMYgwHCAggQABiABBixA8ICBRAAGIAEwgIIEC4YgAQYsQPCAg4QABiABBiKBRixAxiDAcICBxAAGIAEGArCAgsQLhiABBjHARivAcICDhAAGIAEGLEDGIMBGMcDwgIIEAAYgAQYxwOYA4gB8QV3vRm9AYfUaZIHAzAuNqAH8ECyBwMwLja4B70GwgcFMS40LjHIBw-ACAE&sclient=gws-wiz",
+  "screenshot": "screenshots\\cycle_002_20260920_152113\\FUFUSLOT.png",
+  "results_count": 3,
+  "results": [
+    {
+      "rank": 1,
+      "title": "FUFUSLOT: 2027 di Depan Mata | Saatnya Main Cacing ...",
+      "url": "https://fufuslot.men/"
+    },
+    {
+      "rank": 2,
+      "title": "FUFUSLOT Tempat Seru Buat Mutar Game Favoritmu Hanya ...",
+      "url": "https://join.fufuslotonline.top/"
+    },
+    {
+      "rank": 3,
+      "title": "FUFU SLOT (fufuslot1)",
+      "url": "https://gifyu.com/fufuslot1"
+    }
+  ]
+}

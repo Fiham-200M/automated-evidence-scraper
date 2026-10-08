@@ -1,0 +1,27 @@
+{
+  "cycle": 1,
+  "timestamp": "2026-09-20 15:16:12",
+  "index": 28,
+  "total": 54,
+  "brand": "PASTI200M",
+  "status": {
+    "completed": 32,
+    "balance": 22,
+    "total": 54
+  },
+  "search_url": "https://www.google.com/search?q=PASTI200M&sca_esv=306360304c71a31f&sxsrf=APpeQnt9wgJGfKdLseBh_k6D1ubDmdVFWQ%3A1789897647075&source=hp&ei=r6uvavGpA5O84-EPkLbB8QI&iflsig=ABILxe8AAAAAaq-5v-vxfPxzkbeRcZpxbBCetW2Ulm21&ved=0ahUKEwixvb-r8PyWAxUT3jgGHRBbMC4Q4dUDCBs&uact=5&oq=PASTI200M&gs_lp=Egdnd3Mtd2l6IglQQVNUSTIwME1I1whQClijB3ABeACQAQCYAZgBoAGrCaoBAzAuObgBA8gBAPgBAZgCB6ACtAaoAgLCAgoQABgDGI8BGOoCwgIFEC4YgATCAggQABiABBixA8ICBRAAGIAEwgIOEC4YgAQYigUYsQMYgwHCAg4QABiABBiKBRixAxiDAcICCxAAGIAEGLEDGIMBwgIOEC4YgAQYxwEYrwEYjgXCAhEQABiABBiKBRiNBhixAxiDAcICCBAuGIAEGLEDwgIEEAAYA8ICERAuGIAEGLEDGMcBGK8BGI4FwgILEAAYgAQYigUYkgPCAgsQLhiABBixAxiDAcICCBAAGIAEGLQHwgIHEAAYgAQYCpgDAvEFujsFX4bAlDeSBwMxLjagB6s5sgcDMC42uAexBsIHAzAuN8gHC4AIAQ&sclient=gws-wiz",
+  "screenshot": "screenshots\\cycle_001_20260920_151612\\PASTI200M.png",
+  "results_count": 2,
+  "results": [
+    {
+      "rank": 1,
+      "title": "PASTI200M | PASTI 200M | LOGIN PASTI200M | DAFTAR ...",
+      "url": "https://pasti200mwin.com/"
+    },
+    {
+      "rank": 2,
+      "title": "Pasti200m untuk Android - Unduh - Softonic",
+      "url": "https://pasti200m.softonic-id.com/android"
+    }
+  ]
+}

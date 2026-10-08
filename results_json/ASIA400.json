@@ -1,0 +1,30 @@
+{
+  "index": 5,
+  "total": 54,
+  "brand": "ASIA400",
+  "status": {
+    "completed": 6,
+    "balance": 48,
+    "total": 54
+  },
+  "search_url": "https://www.google.com/search?q=ASIA400&sca_esv=a9d93d3da37a6f94&source=hp&ei=PniravPhCp6hhvcP3uHQkA0&iflsig=ABILxe8AAAAAaquGTtYYiKLV0h6uEmI8-dvGjK_op6HV&ved=0ahUKEwjz-Irc7vSWAxWekOEIHd4wFNIQ4dUDCBs&uact=5&oq=ASIA400&gs_lp=Egdnd3Mtd2l6IgdBU0lBNDAwSOoaUOIEWKEScAB4AJABAJgBmAGgAd0IqgEDMC44uAEDyAEA-AEBmAIHoALjB6gCAsICChAuGAMYjwEY6gLCAgoQABgDGI8BGOoCwgIFEC4YgATCAgsQABiABBixAxiDAcICCBAAGIAEGLEDwgILEC4YgAQYsQMYgwHCAgoQLhiABBiKBRhDwgIOEAAYgAQYigUYsQMYgwHCAgUQABiABMICCxAuGIAEGMcBGNEDwgIOEC4YgAQYsQMYxwEY0QPCAggQLhiABBixA8ICCBAAGIAEGLQHwgIREAAYgAQYigUYjQYYsQMYgwHCAhAQABiABBiKBRhDGLEDGIMBwgIHEAAYgAQYCpgDiAHxBf2E0KTp5jpzkgcDMC43oAfVP7IHAzAuN7gH4wfCBwUxLjUuMcgHD4AIAQ&sclient=gws-wiz",
+  "screenshot": "screenshots\\ASIA400.png",
+  "results_count": 3,
+  "results": [
+    {
+      "rank": 1,
+      "title": "ASIA400 || Sensasi Jackpot dan Kemenangan Spektakuler ...",
+      "url": "https://www.asia400.co/"
+    },
+    {
+      "rank": 2,
+      "title": "Asia400 Slot",
+      "url": "https://www.instagram.com/popular/asia400-slot/"
+    },
+    {
+      "rank": 3,
+      "title": "ASI400: Arena Signal Core untuk Gaming Adaptif Modern",
+      "url": "https://asi400.pages.dev/"
+    }
+  ]
+}

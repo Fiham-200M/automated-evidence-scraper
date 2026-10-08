@@ -1,0 +1,32 @@
+{
+  "cycle": 2,
+  "timestamp": "2026-09-20 15:21:13",
+  "index": 29,
+  "total": 54,
+  "brand": "RAJA100",
+  "status": {
+    "completed": 37,
+    "balance": 17,
+    "total": 54
+  },
+  "search_url": "https://www.google.com/search?q=RAJA100&sca_esv=306360304c71a31f&sxsrf=APpeQnuEh6Zwwlzy5KGzs9T6epW130wANQ%3A1789897956043&source=hp&ei=5Kyvap6yAceR4-EPj9ar-QQ&iflsig=ABILxe8AAAAAaq-69KJ-hNh8Nm_4HbAqhYqWsaJcarYB&ved=0ahUKEwietOm-8fyWAxXHyDgGHQ_rKk8Q4dUDCBs&uact=5&oq=RAJA100&gs_lp=Egdnd3Mtd2l6IgdSQUpBMTAwMgcQABiABBgKMgcQABiABBgKSIgGUApYxgVwAHgAkAEAmAGFAaAB8QaqAQMwLje4AQPIAQD4AQGYAgagAvsFqAIAwgIIEC4YgAQYsQPCAggQABiABBixA8ICCxAuGIAEGLEDGIMBwgIOEC4YgAQYxwEYrwEYjgXCAgUQLhiABMICCxAAGIAEGLEDGIMBwgIFEAAYgATCAhEQLhiABBiKBRiNBhixAxiDAcICDhAAGIAEGIoFGI0GGLEDwgIIEAAYgAQYyQPCAgsQABiABBiKBRiSA5gDhAHxBV0o4shSyTZ3kgcDMC42oAfdLLIHAzAuNrgH-wXCBwUzLjIuMcgHCIAIAQ&sclient=gws-wiz",
+  "screenshot": "screenshots\\cycle_002_20260920_152113\\RAJA100.png",
+  "results_count": 3,
+  "results": [
+    {
+      "rank": 1,
+      "title": "Platform Hiburan Digital untuk Akses Lebih Ringkas - Raja100",
+      "url": "https://sang-raja100.online/slots/pgsoft"
+    },
+    {
+      "rank": 2,
+      "title": "Raja100 Link",
+      "url": "https://www.instagram.com/popular/raja100-link/"
+    },
+    {
+      "rank": 3,
+      "title": "RAJA700 | Panduan Lengkap & Akses Resmi Game Online ...",
+      "url": "https://gaming.raja700zone.live/"
+    }
+  ]
+}

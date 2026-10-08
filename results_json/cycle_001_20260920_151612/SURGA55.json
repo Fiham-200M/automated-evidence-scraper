@@ -1,0 +1,42 @@
+{
+  "cycle": 1,
+  "timestamp": "2026-09-20 15:16:12",
+  "index": 41,
+  "total": 54,
+  "brand": "SURGA55",
+  "status": {
+    "completed": 54,
+    "balance": 0,
+    "total": 54
+  },
+  "search_url": "https://www.google.com/search?q=SURGA55&sca_esv=306360304c71a31f&sxsrf=APpeQntWg7ELWOX-t7Wnpny6GOUailJQOg%3A1789897682566&source=hp&ei=0quvavv7IN2J4-EPnK-PkAg&iflsig=ABILxe8AAAAAaq-54pY41Gh90rKJCy8BR1VVxY_tMjrO&ved=0ahUKEwj7rLW88PyWAxXdxDgGHZzXA4IQ4dUDCBs&uact=5&oq=SURGA55&gs_lp=Egdnd3Mtd2l6IgdTVVJHQTU1MgcQABiABBgKSP8WUP8BWOMUcAB4AJABAJgBtAKgAdIPqgEFMi02LjG4AQPIAQD4AQGYAgagAtMNqAIAwgIIEAAYgAQYsQPCAgsQABiABBixAxiDAcICBRAAGIAEwgIFEC4YgATCAgsQLhiABBjHARjRA5gDmwLxBeybonBQ0OK4kgcFMi01LjGgB_EWsgcFMi01LjG4B9MNwgcHMS4yLjIuMcgHEoAIAQ&sclient=gws-wiz",
+  "screenshot": "screenshots\\cycle_001_20260920_151612\\SURGA55.png",
+  "results_count": 5,
+  "results": [
+    {
+      "rank": 1,
+      "title": "Tolong dibantu buka situs surga55",
+      "url": "https://support.google.com/chrome/thread/216120962/tolong-dibantu-buka-situs-surga55?hl=id"
+    },
+    {
+      "rank": 2,
+      "title": "SURGA55 | Liga Auto Spin Online Terbaru, Hadiah Besar ...",
+      "url": "https://surga55.buzz/"
+    },
+    {
+      "rank": 3,
+      "title": "Surga55 Link",
+      "url": "https://www.instagram.com/popular/surga55-link/"
+    },
+    {
+      "rank": 4,
+      "title": "https://surga55.tigerproduction.co.id/",
+      "url": "https://surga55.tigerproduction.co.id/"
+    },
+    {
+      "rank": 5,
+      "title": "Heart Craft",
+      "url": "https://mariasplace.com/heart-craft/"
+    }
+  ]
+}

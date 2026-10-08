@@ -1,0 +1,62 @@
+{
+  "cycle": 1,
+  "timestamp": "2026-09-20 15:16:12",
+  "index": 30,
+  "total": 54,
+  "brand": "SGCPLAY",
+  "status": {
+    "completed": 26,
+    "balance": 28,
+    "total": 54
+  },
+  "search_url": "https://www.google.com/search?q=SGCPLAY&sca_esv=306360304c71a31f&sxsrf=APpeQntPV_2rEav5j4lczz85i4S-8zIA-w%3A1789897652469&source=hp&ei=tKuvatSwG-nx4-EP5rLJyAM&iflsig=ABILxe8AAAAAaq-5xKIpRlXXHjyHF-AMfI5raoGT8ht-&ved=0ahUKEwjU2oiu8PyWAxXp-DgGHWZZEjkQ4dUDCBs&uact=5&oq=SGCPLAY&gs_lp=Egdnd3Mtd2l6IgdTR0NQTEFZSL4GUAdYzgVwAHgAkAEAmAGaAaABugeqAQMwLje4AQPIAQD4AQGYAgagAskGqAIBwgIKEC4YAxiPARjqAsICBRAAGIAEwgIIEAAYgAQYsQPCAgsQABiABBixAxiDAcICBRAuGIAEwgIOEC4YgAQYsQMYxwEY0QPCAgoQABiABBiKBRhDwgIOEC4YgAQYxwEYrwEYjgXCAgsQLhiABBjHARivAcICBxAAGIAEGAqYA37xBXhUdtAI-8IakgcDMC42oAfnNrIHAzAuNrgHyQbCBwMyLjTIBweACAE&sclient=gws-wiz",
+  "screenshot": "screenshots\\cycle_001_20260920_151612\\SGCPLAY.png",
+  "results_count": 9,
+  "results": [
+    {
+      "rank": 1,
+      "title": "SGCPLAY : Situs aman dan terpercaya SGC GROUP",
+      "url": "https://www.sgcplay.com/"
+    },
+    {
+      "rank": 2,
+      "title": "SGC Play - Aplikasi di Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.appsgc&hl=id"
+    },
+    {
+      "rank": 3,
+      "title": "Sgcplay Alternatif",
+      "url": "https://www.instagram.com/popular/sgcplay-alternatif/"
+    },
+    {
+      "rank": 4,
+      "title": "SGC Play - Aplikasi di Google Play",
+      "url": "https://play.google.com/store/apps/details?id=com.logicahost.sgcplay&hl=id"
+    },
+    {
+      "rank": 5,
+      "title": "Sgc Play Slot",
+      "url": "https://www.instagram.com/popular/sgc-play-slot/"
+    },
+    {
+      "rank": 6,
+      "title": "SGC Play APK untuk Unduhan Android",
+      "url": "https://apkpure.com/id/sgc-play/com.appsgc"
+    },
+    {
+      "rank": 7,
+      "title": "SGC",
+      "url": "https://gosgc.com/login/"
+    },
+    {
+      "rank": 8,
+      "title": "SGPSLOT | Link Login Alternatif Toto Macau & SGP Pusat ...",
+      "url": "https://amp.sgpslot-masuk.com/"
+    },
+    {
+      "rank": 9,
+      "title": "Aplikasi Android dari Portal SGC di Google Play",
+      "url": "https://play.google.com/store/apps/developer?id=Portal+SGC&hl=id"
+    }
+  ]
+}

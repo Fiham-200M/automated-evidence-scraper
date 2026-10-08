@@ -1,0 +1,67 @@
+{
+  "cycle": 2,
+  "timestamp": "2026-09-20 15:21:13",
+  "index": 3,
+  "total": 54,
+  "brand": "ASIA200",
+  "status": {
+    "completed": 13,
+    "balance": 41,
+    "total": 54
+  },
+  "search_url": "https://www.google.com/search?q=ASIA200&sca_esv=306360304c71a31f&sxsrf=APpeQnsTMvlZLKByp5cooiFJcDX4zetckA%3A1789897876014&source=hp&ei=k6yvaumuPKGP4-EP9bbeiAE&iflsig=ABILxe8AAAAAaq-6pLtXiXPx7UYB-4NBPwCVj6W7IfbY&ved=0ahUKEwipxNSY8fyWAxWhxzgGHXWbFxEQ4dUDCBs&uact=5&oq=ASIA200&gs_lp=Egdnd3Mtd2l6IgdBU0lBMjAwMgUQABiABDIHEAAYgAQYCkiOBlAQWP4EcAB4AJABAJgB0wGgAa8HqgEFMC40LjK4AQPIAQD4AQGYAgWgAsoGqAIAwgIFEC4YgATCAgsQABiABBixAxiDAcICDhAAGIAEGIoFGLEDGIMBwgILEC4YgAQYsQMYgwHCAggQABiABBixA8ICDhAuGIAEGIoFGLEDGIMBwgIOEC4YgAQYsQMYxwEY0QPCAg4QABiABBiKBRiNBhixA8ICCBAuGIAEGLEDwgIIEAAYgAQYtAfCAhEQABiABBiKBRiNBhixAxiDAcICChAAGIAEGIoFGEOYA3jxBT8mbhUuIpOZkgcFMC4zLjKgB4srsgcFMC4zLjK4B8oGwgcFMS4zLjHIBwyACAE&sclient=gws-wiz",
+  "screenshot": "screenshots\\cycle_002_20260920_152113\\ASIA200.png",
+  "results_count": 10,
+  "results": [
+    {
+      "rank": 1,
+      "title": "ASIA200 | Platform Resmi PG SOFT Mahjong Ways 2 ...",
+      "url": "https://zone.asia200pg.vip/"
+    },
+    {
+      "rank": 2,
+      "title": "ASIA200 Login Daftar Membaca Peluang Cara Memulai ...",
+      "url": "https://www.mylittlepessaire.com/contact/"
+    },
+    {
+      "rank": 3,
+      "title": "Fitur & Spesifikasi Samsung Galaxy Buds3 FE",
+      "url": "https://www.samsung.com/id/audio-sound/galaxy-buds/galaxy-buds3-fe-gray-sm-r420nzaaxse/"
+    },
+    {
+      "rank": 4,
+      "title": "Student Portal",
+      "url": "https://www.hpuniv.ac.in/student-corner.php"
+    },
+    {
+      "rank": 5,
+      "title": "Reccessary｜Global Renewable Energy and Carbon Market ...",
+      "url": "https://www.reccessary.com/en"
+    },
+    {
+      "rank": 6,
+      "title": "Front-load Laundry Combo Ecobubble™ 21kg + 12kg",
+      "url": "https://www.samsung.com/id/washers-and-dryers/washer-dryer-combo/wd6000t-front-load-combo-washer-dryer-21kg-black-wd21t6500gv-se/"
+    },
+    {
+      "rank": 7,
+      "title": "Asia's Richest Families",
+      "url": "https://www.forbes.com/asia-families/list/"
+    },
+    {
+      "rank": 8,
+      "title": "E Books (SLM)",
+      "url": "https://www.hpuniv.ac.in/university-detail/icdeol/e-books-slm"
+    },
+    {
+      "rank": 9,
+      "title": "Beli Samsung Galaxy Tab S11 Ultra | Harga & Promo",
+      "url": "https://www.samsung.com/id/tablets/galaxy-tab-s11/buy/"
+    },
+    {
+      "rank": 10,
+      "title": "65\" QLED QEF1 4K Samsung Vision AI Smart TV",
+      "url": "https://www.samsung.com/id/tvs/qled-tv/qef1-65-inch-qled-4k-smart-tv-qa65qef1akxxd/"
+    }
+  ]
+}

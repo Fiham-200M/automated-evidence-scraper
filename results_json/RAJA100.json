@@ -1,0 +1,25 @@
+{
+  "index": 29,
+  "total": 54,
+  "brand": "RAJA100",
+  "status": {
+    "completed": 28,
+    "balance": 26,
+    "total": 54
+  },
+  "search_url": "https://www.google.com/search?q=RAJA100&sca_esv=a9d93d3da37a6f94&source=hp&ei=WHirarb7LfmehvcPy-CU8AY&iflsig=ABILxe8AAAAAaquGaAiEV9nDmm0P5AujSHiFr20F6x5-&ved=0ahUKEwi2h-Ho7vSWAxV5j-EIHUswBW4Q4dUDCBs&uact=5&oq=RAJA100&gs_lp=Egdnd3Mtd2l6IgdSQUpBMTAwMgcQABiABBgKSNgWUMAEWKAPcAF4AJABApgBwQSgAbcSqgEJMi01LjAuMS4xuAEDyAEA-AEBmAIGoAL1CqgCAcICChAuGAMYjwEY6gLCAggQLhiABBixA8ICCBAAGIAEGLEDwgILEC4YgAQYsQMYgwHCAg4QLhiABBjHARivARiOBcICBRAuGIAEwgILEAAYgAQYsQMYgwHCAgUQABiABMICBxAAGAMYjQbCAhEQLhiABBiKBRiNBhixAxiDAcICDhAAGIAEGIoFGI0GGLEDwgIIEAAYgAQYyQPCAgsQABiABBiKBRiSA5gDB_EFkDchH2kX2R2SBwUxLjAuNaAHtyuyBwMyLTW4B-4KwgcFMi4yLjLIBw6ACAE&sclient=gws-wiz",
+  "screenshot": "screenshots\\RAJA100.png",
+  "results_count": 2,
+  "results": [
+    {
+      "rank": 1,
+      "title": "Platform Hiburan Digital untuk Akses Lebih Ringkas - Raja100",
+      "url": "https://sang-raja100.online/slots/pgsoft"
+    },
+    {
+      "rank": 2,
+      "title": "Raja100 Link",
+      "url": "https://www.instagram.com/popular/raja100-link/"
+    }
+  ]
+}

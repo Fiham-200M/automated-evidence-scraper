@@ -1,0 +1,35 @@
+{
+  "index": 49,
+  "total": 54,
+  "brand": "TIKET100",
+  "status": {
+    "completed": 49,
+    "balance": 5,
+    "total": 54
+  },
+  "search_url": "https://www.google.com/search?q=TIKET100&sca_esv=a9d93d3da37a6f94&source=hp&ei=cXirasTaHPGrhvcPqa-0gAg&iflsig=ABILxe8AAAAAaquGgRrwkb_sJkpqbSFCOWgs1JVYlVVc&ved=0ahUKEwiE18X07vSWAxXxleEIHakXDYAQ4dUDCBs&uact=5&oq=TIKET100&gs_lp=Egdnd3Mtd2l6IghUSUtFVDEwMEj9FVDkA1iKDnABeACQAQCYAZUBoAHlCKoBAzAuOLgBA8gBAPgBAZgCB6AC7geoAgDCAggQABiABBixA8ICCxAAGIAEGLEDGIMBwgIUEC4YgAQYigUYjQYYsQMYxwEY0QPCAg4QLhiABBixAxjHARjRA8ICERAuGIAEGLEDGIMBGMcBGNEDwgIIEC4YgAQYsQPCAgoQABiABBiKBRhDwgIFEAAYgATCAgUQLhiABMICCxAAGIAEGIoFGJIDwgIQEAAYgAQYigUYQxixAxjJA8ICDhAAGIAEGIoFGLEDGIMBwgIHEAAYgAQYCpgDAvEFksEjmstiRyCSBwMwLjegB6QpsgcDMC43uAfuB8IHBzEuMy4yLjHIBxaACAE&sclient=gws-wiz",
+  "screenshot": "screenshots\\TIKET100.png",
+  "results_count": 4,
+  "results": [
+    {
+      "rank": 1,
+      "title": "TIKET100 CARA NAKAL MAXWIN GATE OLYMPUS X1000 ...",
+      "url": "https://joinjp.twobeardedmen.com/"
+    },
+    {
+      "rank": 2,
+      "title": "Tiket100 Slot",
+      "url": "https://www.instagram.com/popular/tiket100-slot/"
+    },
+    {
+      "rank": 3,
+      "title": "Tiket100 Link",
+      "url": "https://www.instagram.com/popular/tiket100-link/"
+    },
+    {
+      "rank": 4,
+      "title": "Tiket 100 Slot",
+      "url": "https://www.instagram.com/popular/tiket-100-slot/"
+    }
+  ]
+}

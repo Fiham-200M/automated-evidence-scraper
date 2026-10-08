@@ -1,0 +1,47 @@
+{
+  "cycle": 2,
+  "timestamp": "2026-09-20 15:21:13",
+  "index": 4,
+  "total": 54,
+  "brand": "ASIA300",
+  "status": {
+    "completed": 22,
+    "balance": 32,
+    "total": 54
+  },
+  "search_url": "https://www.google.com/search?q=ASIA300&sca_esv=306360304c71a31f&sxsrf=APpeQnuz77gLyrFPS4QLBQELBQhPK7SWMw%3A1789897877043&source=hp&ei=layvaqZvmInj4Q_i6MOYAg&iflsig=ABILxe8AAAAAaq-6pUNs2fxzdFidp9kGVALvfR8WVtWl&ved=0ahUKEwjmjZOZ8fyWAxWYxDgGHWL0ECMQ4dUDCBs&uact=5&oq=ASIA300&gs_lp=Egdnd3Mtd2l6IgdBU0lBMzAwMggQABiABBi0BzIHEAAYgAQYCkiDB1AcWKYGcAF4AJABAJgBiwGgAfgFqgEDMC42uAEDyAEA-AEBmAIHoAKWBqgCBsICExAAGIAEGIoFGEMY5wYY6gIYtALCAgoQLhgDGI8BGOoCwgIKEAAYAxiPARjqAsICCBAAGIAEGLEDwgIUEC4YgAQYigUYsQMYgwEYxwEY0QPCAhEQABiABBiKBRiNBhixAxiDAcICBRAAGIAEwgILEAAYgAQYsQMYgwHCAgsQLhiABBixAxiDAcICChAAGIAEGIoFGEPCAg4QLhiABBixAxjHARjRA8ICBRAuGIAEwgIOEAAYgAQYigUYjQYYsQPCAggQLhiABBixA8ICDhAAGIAEGIoFGLEDGIMBmAMK8QXSX60UnvzvtJIHAzEuNqAHwiuyBwMwLja4B4sGwgcFMi4yLjPIBxSACAE&sclient=gws-wiz",
+  "screenshot": "screenshots\\cycle_002_20260920_152113\\ASIA300.png",
+  "results_count": 6,
+  "results": [
+    {
+      "rank": 1,
+      "title": "ASIA300 = Wahana Seru Untuk Para Penikmat Slot Online ...",
+      "url": "https://jepe.asia300big.us/"
+    },
+    {
+      "rank": 2,
+      "title": "Asia300 - Nikkei Asia - 日本経済新聞",
+      "url": "https://asia.nikkei.com/asia300"
+    },
+    {
+      "rank": 3,
+      "title": "Slot Asia 300",
+      "url": "https://www.instagram.com/popular/slot-asia-300/"
+    },
+    {
+      "rank": 4,
+      "title": "Pharma & Healthcare Consulting Services",
+      "url": "https://www.i3consult.com/i3services/"
+    },
+    {
+      "rank": 5,
+      "title": "ASI300 ## Sensasi Roda Emas Dunia Digital Virtual",
+      "url": "https://aedconferencecenter.pages.dev/"
+    },
+    {
+      "rank": 6,
+      "title": "ASI300 : Menjelajahi Harmoni Tradisi dan Modernisasi yang ...",
+      "url": "https://300asi-org-rankingonegoogle.pages.dev/"
+    }
+  ]
+}

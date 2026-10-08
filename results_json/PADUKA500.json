@@ -1,0 +1,35 @@
+{
+  "index": 27,
+  "total": 54,
+  "brand": "PADUKA500",
+  "status": {
+    "completed": 29,
+    "balance": 25,
+    "total": 54
+  },
+  "search_url": "https://www.google.com/search?q=PADUKA500&sca_esv=a9d93d3da37a6f94&source=hp&ei=VniravqvGLCphvcP_J6dkA0&iflsig=ABILxe8AAAAAaquGZoDQe5pm4Bdi2hqdgwV9tSPplbte&ved=0ahUKEwj6stHn7vSWAxWwlOEIHXxPB9IQ4dUDCBs&uact=5&oq=PADUKA500&gs_lp=Egdnd3Mtd2l6IglQQURVS0E1MDBIrhxQqQVYiBRwAXgAkAEAmAHjAaABtgqqAQUwLjguMbgBA8gBAPgBAZgCB6ACsweoAgHCAgoQLhgDGI8BGOoCwgIIEAAYgAQYsQPCAgUQLhiABMICBRAAGIAEwgIOEC4YgAQYigUYsQMYgwHCAg4QABiABBiKBRixAxiDAcICCxAAGIAEGLEDGIMBwgIOEC4YgAQYxwEYrwEYjgXCAhEQABiABBiKBRiNBhixAxiDAcICCBAuGIAEGLEDwgIUEC4YgAQYxwEYrwEYmAUYngUYmQXCAgsQLhiABBixAxiDAcICCBAAGIAEGLQHwgIKEAAYgAQYigUYQ8ICCxAuGIAEGMcBGK8BmAME8QXwVo_ywjvn5ZIHBTEuNS4xoAfUKbIHBTAuNS4xuAevB8IHBTAuNS4yyAcSgAgB&sclient=gws-wiz",
+  "screenshot": "screenshots\\PADUKA500.png",
+  "results_count": 4,
+  "results": [
+    {
+      "rank": 1,
+      "title": "PADUKA500 Bermain Princes Starlight Sambil Nyeruput Kopi ...",
+      "url": "https://daftar.paduka500-link.com/"
+    },
+    {
+      "rank": 2,
+      "title": "Home Cursos de Extensão",
+      "url": "https://faculdadeintegra.edu.br/extensao/"
+    },
+    {
+      "rank": 3,
+      "title": "UPA Pengembangan Karier dan Kewirausahaan ...",
+      "url": "https://upapkkw.untirta.ac.id/"
+    },
+    {
+      "rank": 4,
+      "title": "MOG500 : Kalau Sudah MOG Tak Perlu Banyak Gimmick",
+      "url": "https://pethealthequip.netlify.app/"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "index": 41,
+  "total": 54,
+  "brand": "SURGA55",
+  "status": {
+    "completed": 41,
+    "balance": 13,
+    "total": 54
+  },
+  "search_url": "https://www.google.com/search?q=SURGA55&sca_esv=a9d93d3da37a6f94&source=hp&ei=Z3irasWDIt6khvcPuJzx0Ac&iflsig=ABILxe8AAAAAaquGdx6yBeKxXZxQeOYKfMe-ybPFUUDI&ved=0ahUKEwiF0-jv7vSWAxVekuEIHThOHHoQ4dUDCBs&uact=5&oq=SURGA55&gs_lp=Egdnd3Mtd2l6IgdTVVJHQTU1SM0ZUMgEWIcRcAF4AJABAJgBtQGgAbwIqgEDMC43uAEDyAEA-AEBmAIGoALKBqgCCMICChAuGAMYjwEY6gLCAgoQABgDGI8BGOoCwgIFEAAYgATCAggQABiABBixA8ICCxAAGIAEGLEDGIMBwgIFEC4YgATCAhEQABiABBiKBRiNBhixAxiDAcICCxAuGIAEGMcBGNEDmAMJ8QVdhh_QgnqB7JIHAzEuNaAH3xeyBwMwLjW4B8AGwgcFMC4yLjTIBxaACAE&sclient=gws-wiz",
+  "screenshot": "screenshots\\SURGA55.png",
+  "results_count": 4,
+  "results": [
+    {
+      "rank": 1,
+      "title": "Tolong dibantu buka situs surga55",
+      "url": "https://support.google.com/chrome/thread/216120962/tolong-dibantu-buka-situs-surga55?hl=id"
+    },
+    {
+      "rank": 2,
+      "title": "https://surga55.tigerproduction.co.id/",
+      "url": "https://surga55.tigerproduction.co.id/"
+    },
+    {
+      "rank": 3,
+      "title": "Heart Craft",
+      "url": "https://mariasplace.com/heart-craft/"
+    },
+    {
+      "rank": 4,
+      "title": "Furniture Showroom in Jodhpur",
+      "url": "https://samyogliving.com/showrooms/"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+.venv/
+venv/
+ENV/
+
+# Python Cache & Testing
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Executables & Large Binaries
+bin/
+*.exe
+
+# Browser profiles & session data (cookies, cache)
+chrome_profile/
+temp_stealth_session/
+
+# Scraping outputs & heavy evidence dumps
+output/
+evidence-output/
+link_scrape_output/
+amp-output/
+amp_2_brand_test/
+amp_54_brand_run/
+brand_screenshots/
+screenshots/
+
+# Media & Screenshots
+*.png
+*.jpg
+*.jpeg
+*.mp3
+*.wav
+
+# Logs & OS artifacts
+*.log
+.DS_Store
+Thumbs.db

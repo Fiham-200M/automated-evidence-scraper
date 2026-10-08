@@ -1,0 +1,67 @@
+{
+  "cycle": 1,
+  "timestamp": "2026-09-20 15:16:12",
+  "index": 7,
+  "total": 54,
+  "brand": "B200M",
+  "status": {
+    "completed": 7,
+    "balance": 47,
+    "total": 54
+  },
+  "search_url": "https://www.google.com/search?q=B200M&sca_esv=306360304c71a31f&sxsrf=APpeQnty2H9SkBnVHfCilakHOEEeFnllJA%3A1789897580041&source=hp&ei=bKuvaqRz2Z3j4Q-PqI6RCA&iflsig=ABILxe8AAAAAaq-5fDRQne2_vtVYQRPfOhAQ3KELVQN_&ved=0ahUKEwik2cOL8PyWAxXZzjgGHQ-UI4IQ4dUDCBs&uact=5&oq=B200M&gs_lp=Egdnd3Mtd2l6IgVCMjAwTTIFEAAYgAQyBRAAGIAESNcEUAdYuANwAXgAkAEBmAGNAqABpwaqAQUwLjQuMbgBA8gBAPgBAZgCBKACpgSoAgDCAgsQLhiABBixAxiDAcICBBAAGAPCAg4QLhiABBjHARivARiOBcICCBAAGIAEGLEDwgIOEAAYgAQYigUYsQMYgwHCAgsQLhiABBjHARjRA8ICCxAAGIAEGLEDGIMBwgIQEAAYgAQYigUYQxixAxiDAZgDAfEFV8ybsuHDLj6SBwMwLjSgB_8UsgcDMC40uAemBMIHBTEuMi4xyAcJgAgB&sclient=gws-wiz",
+  "screenshot": "screenshots\\cycle_001_20260920_151612\\B200M.png",
+  "results_count": 10,
+  "results": [
+    {
+      "rank": 1,
+      "title": "MTP-B200M-7E | CASIO INDONESIA",
+      "url": "https://www.casio.com/id/watches/casio/product.MTP-B200M-7E/"
+    },
+    {
+      "rank": 2,
+      "title": "B200m",
+      "url": "https://www.facebook.com/p/B200m-61581305557288/"
+    },
+    {
+      "rank": 3,
+      "title": "B200M untuk Desainer Grafis: Meningkatkan Desain dan ...",
+      "url": "https://chil.me/post/b200m-untuk-desainer-grafis-meningkatkan-desain-dan-kolaborasi-491758"
+    },
+    {
+      "rank": 4,
+      "title": "B200M : Server Thailand Situs Termantap Games Online ...",
+      "url": "https://tr.pinterest.com/pin/413557178267650635/"
+    },
+    {
+      "rank": 5,
+      "title": "Beli B200m Online Harga Terbaik",
+      "url": "https://www.lazada.co.id/tag/b200m/"
+    },
+    {
+      "rank": 6,
+      "title": "MTP-B200M Opsi | CASIO INDONESIA",
+      "url": "https://www.casio.com/id/watches/options/option.MTP-B200M/"
+    },
+    {
+      "rank": 7,
+      "title": "B200M",
+      "url": "https://www.openvoxtech.com/products/telephony-cards/hybrid-cards/145-b200m-hybrid"
+    },
+    {
+      "rank": 8,
+      "title": "B200m Slot",
+      "url": "https://www.instagram.com/popular/b200m-slot/?hl=id"
+    },
+    {
+      "rank": 9,
+      "title": "Beli B200m Online Harga Terbaik",
+      "url": "https://www.lazada.co.id/tag/b200m/?page=65"
+    },
+    {
+      "rank": 10,
+      "title": "B200M - Platform Hiburan Digital Modern Cepat dan ...",
+      "url": "https://ampweb-b200m.netlify.app/"
+    }
+  ]
+}

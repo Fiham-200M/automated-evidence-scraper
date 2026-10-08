@@ -1,0 +1,7 @@
+Commands to use: 
+
+npm install
+
+pip install -r requirements.txt
+
+node search-and-scrape.mjs    or npm start

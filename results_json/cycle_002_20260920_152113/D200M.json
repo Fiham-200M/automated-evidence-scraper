@@ -1,0 +1,37 @@
+{
+  "cycle": 2,
+  "timestamp": "2026-09-20 15:21:13",
+  "index": 10,
+  "total": 54,
+  "brand": "D200M",
+  "status": {
+    "completed": 12,
+    "balance": 42,
+    "total": 54
+  },
+  "search_url": "https://www.google.com/search?q=D200M&sca_esv=306360304c71a31f&sxsrf=APpeQnsL-fUjbIMns8qn81mTcv14TIVMXg%3A1789897883230&source=hp&ei=m6yvapiYDP2N4-EPtIudqQ4&iflsig=ABILxe8AAAAAaq-6q_nsIPcI-7lFrLrDssFL7URwAjNF&ved=0ahUKEwjY0Yyc8fyWAxX9xjgGHbRFJ-UQ4dUDCBs&uact=5&oq=D200M&gs_lp=Egdnd3Mtd2l6IgVEMjAwTTIIEAAYgAQYsQMyBRAAGIAEMgUQABiABDINEAAYgAQYigUYQxixAzIFEAAYgARI0wRQC1jWA3AAeACQAQCYAcEBoAH7BaoBAzAuNbgBA8gBAPgBAZgCBaACkAaoAgjCAhMQABiABBiKBRhDGOcGGOoCGLQCwgIKEC4YAxiPARjqAsICERAuGIAEGLEDGIMBGMcBGNEDwgILEAAYgAQYsQMYgwHCAggQABiABBi0B5gDvwHxBbIYzSd_Gl4akgcDMC41oAesI7IHAzAuNbgHkAbCBwUwLjMuMsgHDoAIAQ&sclient=gws-wiz",
+  "screenshot": "screenshots\\cycle_002_20260920_152113\\D200M.png",
+  "results_count": 4,
+  "results": [
+    {
+      "rank": 1,
+      "title": "D200M Jam Gacor Saatnya Raih Jackpot Maksimal Tanpa ...",
+      "url": "https://login.d200m-megajp.com/"
+    },
+    {
+      "rank": 2,
+      "title": "Pratama Supermarket Bangunan on Instagram: \"Closet lama ...",
+      "url": "https://www.instagram.com/reel/DO8MHnCiSwn/"
+    },
+    {
+      "rank": 3,
+      "title": "D200M Markas Para Pencari Maxwin, Dan Lagi Ramai ...",
+      "url": "https://www.pinterest.com/pin/350084571027327245/"
+    },
+    {
+      "rank": 4,
+      "title": "D200M | Eksplorasi Game Online 10K dalam Satu Platform",
+      "url": "https://new.d200m-terbaru.com/"
+    }
+  ]
+}

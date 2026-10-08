@@ -1,0 +1,13 @@
+{
+  "name": "playwright-scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Playwright scraping and AMP testing",
+  "main": "evidence-scrap.mjs",
+  "scripts": {
+    "start": "node evidence-scrap.mjs"
+  },
+  "dependencies": {
+    "rebrowser-playwright": "^1.52.0"
+  }
+}

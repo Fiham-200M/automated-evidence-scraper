@@ -1,0 +1,37 @@
+{
+  "cycle": 1,
+  "timestamp": "2026-09-20 15:16:12",
+  "index": 3,
+  "total": 54,
+  "brand": "ASIA200",
+  "status": {
+    "completed": 10,
+    "balance": 44,
+    "total": 54
+  },
+  "search_url": "https://www.google.com/search?q=ASIA200&sca_esv=306360304c71a31f&sxsrf=APpeQnstYmBdLyS0LEBz-qES0gx9oUjhFQ%3A1789897576591&source=hp&ei=aKuvar-7Ivud4-EP0MKFgQo&iflsig=ABILxe8AAAAAaq-5eKOZb1SeohkkCRnJw6YGWdfLYIjq&ved=0ahUKEwi_j_GJ8PyWAxX7zjgGHVBhIaAQ4dUDCBs&uact=5&oq=ASIA200&gs_lp=Egdnd3Mtd2l6IgdBU0lBMjAwMgcQABiABBgKSMsMUH9Y7AtwAXgAkAEAmAGTAaABrwaqAQMwLja4AQPIAQD4AQGYAgegAsYGqAIGwgIREAAY5QYYigMY5wYY6gIYtALCAgoQABiABBiKBRhDwgILEAAYgAQYsQMYgwHCAgsQLhiABBixAxiDAcICCBAAGIAEGLEDwgIFEAAYgATCAg4QLhiABBiKBRixAxiDAcICFBAuGIAEGIoFGLEDGIMBGMcBGNEDwgIOEC4YgAQYsQMYxwEY0QPCAgUQLhiABMICCBAuGIAEGLEDwgIIEAAYgAQYtAfCAg4QABiABBiKBRiNBhixA8ICDhAAGIAEGIoFGLEDGIMBwgIREAAYgAQYigUYjQYYsQMYgwGYAwbxBf7FJE_YT_xikgcDMS42oAfgLbIHAzAuNrgHwAbCBwUxLjMuM8gHEIAIAQ&sclient=gws-wiz",
+  "screenshot": "screenshots\\cycle_001_20260920_151612\\ASIA200.png",
+  "results_count": 4,
+  "results": [
+    {
+      "rank": 1,
+      "title": "ASIA200 – Operari Game Online Favorit Banyak Bonus ...",
+      "url": "https://amp.asia200pol.com/"
+    },
+    {
+      "rank": 2,
+      "title": "ASIA200 | Platform Resmi PG SOFT Mahjong Ways 2 ...",
+      "url": "https://zone.asia200pg.vip/"
+    },
+    {
+      "rank": 3,
+      "title": "ASIA200: Customizable Profile Atur Tampilan Akun Sesuka ...",
+      "url": "https://read.asia200-guide.com/"
+    },
+    {
+      "rank": 4,
+      "title": "ASIA200 | Sensasi Game Online dengan Vibes Menegangkan!",
+      "url": "https://akses.asia200-premium.com/"
+    }
+  ]
+}

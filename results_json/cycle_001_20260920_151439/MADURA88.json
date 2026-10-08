@@ -1,0 +1,42 @@
+{
+  "cycle": 1,
+  "timestamp": "2026-09-20 15:14:39",
+  "index": 23,
+  "total": 54,
+  "brand": "MADURA88",
+  "status": {
+    "completed": 4,
+    "balance": 50,
+    "total": 54
+  },
+  "search_url": "https://www.google.com/search?q=MADURA88&sca_esv=306360304c71a31f&sxsrf=APpeQnuK-brrJNu7-HdN6rvTvF4PAaUfEw%3A1789897525078&source=hp&ei=NauvavX7AoWN4-EP6-GFsQc&iflsig=ABILxe8AAAAAaq-5RVd3QCIB2pzwbf6YIeRf-5yrxpVD&ved=0ahUKEwi16qjx7_yWAxWFxjgGHetwIXYQ4dUDCBs&uact=5&oq=MADURA88&gs_lp=Egdnd3Mtd2l6IghNQURVUkE4OEj3B1AFWP0GcAB4AJABAJgBkQGgAZAHqgEDMi42uAEDyAEA-AEBmAIHoAKTBqgCCsICERAAGOUGGIoDGOcGGOoCGLQCwgIKEAAYgAQYigUYQ8ICDhAAGIAEGIoFGLEDGIMBwgIEEAAYA8ICCxAAGIAEGIoFGLEDwgIFEC4YgATCAgUQABiABMICCxAuGIAEGIoFGJECwgIOEAAYgAQYigUYkQIYtAfCAhEQLhiABBiKBRiRAhjHARivAcICCxAAGIAEGIoFGJECwgILEAAYgAQYsQMYgwHCAggQABiABBi0B8ICCBAAGIAEGLEDwgIIEC4YgAQYsQPCAgsQLhiABBixAxiDAZgDR_EFSuSnU6-LD9qSBwMyLjWgB6E9sgcDMi41uAeTBsIHAzEuNsgHCIAIAQ&sclient=gws-wiz",
+  "screenshot": "screenshots\\cycle_001_20260920_151439\\MADURA88.png",
+  "results_count": 5,
+  "results": [
+    {
+      "rank": 1,
+      "title": "MADURA88 RTP Bikin Pilihan Game Online Lo Lebih Spesifik!",
+      "url": "https://letsplay.joinmadura88.top/"
+    },
+    {
+      "rank": 2,
+      "title": "MADURA88 | Disini Website Resmi Yang Gapernah Berhenti ...",
+      "url": "https://login.madura88link.vip/"
+    },
+    {
+      "rank": 3,
+      "title": "MADURA88 | Platform Hiburan Online Resmi Dan Terpercaya",
+      "url": "https://lezat.madura88-sedap.com/"
+    },
+    {
+      "rank": 4,
+      "title": "MADURA88 GRUP RESMI",
+      "url": "https://www.facebook.com/groups/madura88/"
+    },
+    {
+      "rank": 5,
+      "title": "madura88 | BeatStars Profile",
+      "url": "https://www.beatstars.com/api2?srsltid=AU7gw4XECdVRuPHTvObVhiIhzK9IM3KdeiGnoPnk9oKu0GPXqVq0RJS_"
+    }
+  ]
+}

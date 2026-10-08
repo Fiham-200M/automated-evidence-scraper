@@ -1,0 +1,30 @@
+{
+  "index": 53,
+  "total": 54,
+  "brand": "TRI88",
+  "status": {
+    "completed": 53,
+    "balance": 1,
+    "total": 54
+  },
+  "search_url": "https://www.google.com/search?q=TRI88&sca_esv=a9d93d3da37a6f94&source=hp&ei=dnirapmzGdaphvcPpKzW2Qg&iflsig=ABILxe8AAAAAaquGhhkY-AycA0ykhefMnK6qQfxnPb38&ved=0ahUKEwiZxvP27vSWAxXWlOEIHSSWNYsQ4dUDCBs&uact=5&oq=TRI88&gs_lp=Egdnd3Mtd2l6IgVUUkk4ODILEAAYgAQYsQMYgwFItxZQhANYqQxwAHgAkAEAmAGWAaAB3AaqAQMwLja4AQPIAQD4AQGYAgWgAukFqAIAwgIIEAAYgAQYsQPCAhQQLhiABBiKBRiNBhixAxjHARjRA8ICDhAuGIAEGLEDGMcBGNEDwgIREC4YgAQYsQMYgwEYxwEY0QPCAggQLhiABBixA8ICBRAuGIAEwgILEC4YgAQYxwEY0QPCAhEQLhiABBixAxjHARivARiOBcICBRAAGIAEwgIOEC4YgAQYxwEYrwEYjgXCAg4QABiABBiKBRiNBhixA8ICDhAuGIAEGLEDGMcBGK8BwgIXEC4YgAQYigUYjQYYsQMYgwEYxwEY0QPCAggQABiABBi0B5gDigHxBXpVBH_FAqJYkgcDMC41oAfgJLIHAzAuNbgH6QXCBwUxLjIuMsgHDoAIAQ&sclient=gws-wiz",
+  "screenshot": "screenshots\\TRI88.png",
+  "results_count": 3,
+  "results": [
+    {
+      "rank": 1,
+      "title": "Cara Gampang Daftar Akun TRI88 2026, Proses Kilat ...",
+      "url": "https://login.tri88.net/"
+    },
+    {
+      "rank": 2,
+      "title": "TRI88｜ART street",
+      "url": "https://medibang.com/author/27979403/"
+    },
+    {
+      "rank": 3,
+      "title": "TRI8 - Diskusi Taktik Cari Cuan Bersama Suhu Gaming Andalan",
+      "url": "https://cuan-kemerdekaan-tri8net.pages.dev/"
+    }
+  ]
+}

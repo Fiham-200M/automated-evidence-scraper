@@ -1,0 +1,30 @@
+{
+  "index": 19,
+  "total": 54,
+  "brand": "J200M",
+  "status": {
+    "completed": 19,
+    "balance": 35,
+    "total": 54
+  },
+  "search_url": "https://www.google.com/search?q=J200M&sca_esv=a9d93d3da37a6f94&source=hp&ei=TXirarvnGcqqhvcPufS_8A8&iflsig=ABILxe8AAAAAaquGXc9m602K523OsOSa2-sfHnD8CPbN&ved=0ahUKEwj7wa3j7vSWAxVKleEIHTn6D_4Q4dUDCBs&uact=5&oq=J200M&gs_lp=Egdnd3Mtd2l6IgVKMjAwTUj4ElCVB1j7CnAAeACQAQCYAZMBoAHEBqoBAzAuNrgBA8gBAPgBAZgCBaACzwWoAgPCAhMQABiABBiKBRhDGOcGGOoCGLQCwgIREC4Y5QYYigMY5wYY6gIYtALCAgUQABiABMICCBAAGIAEGLEDwgILEAAYgAQYsQMYgwHCAg4QLhiABBixAxjHARjRA8ICERAuGIAEGIoFGI0GGLEDGIMBwgIOEAAYgAQYigUYsQMYgwHCAggQLhiABBixA5gDkgHxBQlygFVfjZqgkgcDMC41oAeQRLIHAzAuNbgHzwXCBwcxLjMuMC4xyAcPgAgB&sclient=gws-wiz",
+  "screenshot": "screenshots\\J200M.png",
+  "results_count": 3,
+  "results": [
+    {
+      "rank": 1,
+      "title": "J200M: Nikmati Freebet Tanpa Deposit dengan Pilihan Slot ...",
+      "url": "https://j200mhandal.com/"
+    },
+    {
+      "rank": 2,
+      "title": "J200M: Tombak Utama untuk Sensasi Gaming yang Tak ...",
+      "url": "https://online.j200mlive.com/"
+    },
+    {
+      "rank": 3,
+      "title": "J200M",
+      "url": "https://www.instagram.com/p/DLM70hPJe5P/"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "index": 43,
+  "total": 54,
+  "brand": "SURGA88",
+  "status": {
+    "completed": 42,
+    "balance": 12,
+    "total": 54
+  },
+  "search_url": "https://www.google.com/search?q=SURGA88&sca_esv=a9d93d3da37a6f94&source=hp&ei=aniraqSfGe23hvcP-M7QsA0&iflsig=ABILxe8AAAAAaquGevh3Jzn9Kh4PofQmJ4pzZNYIcMvH&ved=0ahUKEwik_Jbx7vSWAxXtm-EIHXgnFNYQ4dUDCBs&uact=5&oq=SURGA88&gs_lp=Egdnd3Mtd2l6IgdTVVJHQTg4SNsVUN4FWNsOcAB4AJABAJgBmAGgAaoIqgEDMC44uAEDyAEA-AEBmAIFoAKmBagCAMICBRAAGIAEwgIIEAAYgAQYsQPCAgsQABiABBixAxiDAcICBRAuGIAEwgIREAAYgAQYigUYjQYYsQMYgwHCAgsQLhiABBjHARjRA5gDmwHxBV2k6V772a6DkgcDMC41oAfPF7IHAzAuNbgHpgXCBwUwLjEuNMgHE4AIAQ&sclient=gws-wiz",
+  "screenshot": "screenshots\\SURGA88.png",
+  "results_count": 3,
+  "results": [
+    {
+      "rank": 1,
+      "title": "SURGA88 | Gerbang Petualangan Digital dengan Keseruan ...",
+      "url": "https://www.surga88.com/"
+    },
+    {
+      "rank": 2,
+      "title": "Heart Craft",
+      "url": "https://mariasplace.com/heart-craft/"
+    },
+    {
+      "rank": 3,
+      "title": "surga88",
+      "url": "https://aklp.pa-bawean.go.id/?id=SURGA88"
+    }
+  ]
+}

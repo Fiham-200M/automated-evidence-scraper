@@ -1,0 +1,37 @@
+{
+  "cycle": 1,
+  "timestamp": "2026-09-20 15:16:12",
+  "index": 2,
+  "total": 54,
+  "brand": "ASIA100",
+  "status": {
+    "completed": 6,
+    "balance": 48,
+    "total": 54
+  },
+  "search_url": "https://www.google.com/search?q=ASIA100&sca_esv=306360304c71a31f&sxsrf=APpeQns0RSnz2QHDJxO66YXB3omT5mbv0g%3A1789897576391&source=hp&ei=aKuvarq0FoKP4-EPk62LyAQ&iflsig=ABILxe8AAAAAaq-5eKOZb1SeohkkCRnJw6YGWdfLYIjq&ved=0ahUKEwi6iOWJ8PyWAxWCxzgGHZPWAkkQ4dUDCBs&uact=5&oq=ASIA100&gs_lp=Egdnd3Mtd2l6IgdBU0lBMTAwMgUQABiABEijB1AOWKEGcAF4AJABAJgBnAGgAZcGqgEDMC42uAEDyAEA-AEBmAIFoAKjBagCAMICBRAuGIAEwgILEAAYgAQYsQMYgwHCAg4QABiABBiKBRixAxiDAcICCxAuGIAEGLEDGIMBwgIIEAAYgAQYsQPCAgoQABiABBiKBRhDwgIOEC4YgAQYigUYsQMYgwHCAg4QLhiABBixAxjHARjRA8ICCBAuGIAEGLEDwgIIEAAYgAQYtAfCAhEQABiABBiKBRiNBhixAxiDAZgDAfEFi-xK6mko6uaSBwMwLjWgB4AdsgcDMC41uAejBcIHBTEuMy4xyAcLgAgB&sclient=gws-wiz",
+  "screenshot": "screenshots\\cycle_001_20260920_151612\\ASIA100.png",
+  "results_count": 4,
+  "results": [
+    {
+      "rank": 1,
+      "title": "ASIA100 Update Terbaru Nikmati Cashback dan Bonus ...",
+      "url": "https://up.asia100club.top/"
+    },
+    {
+      "rank": 2,
+      "title": "ASIA100 Link Alternatif Banyak Bonus Melimpah & Spesial ...",
+      "url": "https://play.mainasia100.com/"
+    },
+    {
+      "rank": 3,
+      "title": "ASIA100 | Toko Online Terbaru Dengan Segudang Koleksi ...",
+      "url": "https://play.asia100full.us/"
+    },
+    {
+      "rank": 4,
+      "title": "https://detayspot.com/blog.html",
+      "url": "https://detayspot.com/blog.html"
+    }
+  ]
+}

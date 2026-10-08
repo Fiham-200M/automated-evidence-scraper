@@ -1,0 +1,35 @@
+{
+  "index": 32,
+  "total": 54,
+  "brand": "SGCWIN",
+  "status": {
+    "completed": 32,
+    "balance": 22,
+    "total": 54
+  },
+  "search_url": "https://www.google.com/search?q=SGCWIN&sca_esv=a9d93d3da37a6f94&source=hp&ei=XHirarmeCaGchvcPx9yYwAw&iflsig=ABILxe8AAAAAaquGbC12FPmxijCwtmArX-PEweZZHBFG&ved=0ahUKEwi5vLDq7vSWAxUhjuEIHUcuBsgQ4dUDCBs&uact=5&oq=SGCWIN&gs_lp=Egdnd3Mtd2l6IgZTR0NXSU5IhitQ0ANY5CBwAXgAkAEAmAGkAqABxwyqAQMyLTa4AQPIAQD4AQGYAgSgAtcIqAIAwgIFEAAYgATCAggQABiABBixA8ICCxAAGIAEGLEDGIMBwgIFEC4YgATCAg4QLhiABBixAxjHARjRA8ICDhAuGIAEGMcBGK8BGI4FwgILEC4YgAQYxwEYrwGYAwLxBT-3FpxuXeYZkgcDMi00oAfzFLIHAzItNLgH1wjCBwUxLjAuM8gHEoAIAQ&sclient=gws-wiz",
+  "screenshot": "screenshots\\SGCWIN.png",
+  "results_count": 4,
+  "results": [
+    {
+      "rank": 1,
+      "title": "Antra Švarcs",
+      "url": "https://www.pinterest.com/pin/268949408991474350/"
+    },
+    {
+      "rank": 2,
+      "title": "HeyLink.me | SGCWIN",
+      "url": "https://heylink.me/SGCWIN88.Life/"
+    },
+    {
+      "rank": 3,
+      "title": "SGCWINSLOT $ Main Santai Pilih Genap Ganjil Pasti Pas ...",
+      "url": "https://tabungan-jackpot-sgcwinslotorg.pages.dev/"
+    },
+    {
+      "rank": 4,
+      "title": "SGCSLOT Gaya Baru Dengan Pesona Yang Bikin Terpikat",
+      "url": "https://whisperfamily.pages.dev/"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "cycle": 1,
+  "timestamp": "2026-09-20 15:16:12",
+  "index": 43,
+  "total": 54,
+  "brand": "SURGA88",
+  "status": {
+    "completed": 40,
+    "balance": 14,
+    "total": 54
+  },
+  "search_url": "https://www.google.com/search?q=SURGA88&sca_esv=306360304c71a31f&sxsrf=APpeQnvYTrTC7z7oXeXqpO1a22zMWDfjgA%3A1789897685643&source=hp&ei=1auvaoHvJYec4-EPrqPm8Aw&iflsig=ABILxe8AAAAAaq-55QIKB_SA59rljHjAwG9I3hb_NkJf&ved=0ahUKEwjBrfG98PyWAxUHzjgGHa6RGc4Q4dUDCBs&uact=5&oq=SURGA88&gs_lp=Egdnd3Mtd2l6IgdTVVJHQTg4SL0FUAlY3QRwAHgAkAEBmAGUAaABoweqAQMwLje4AQPIAQD4AQGYAgWgApsFqAIAwgIFEAAYgATCAggQABiABBixA8ICCxAAGIAEGLEDGIMBwgIFEC4YgATCAhEQABiABBiKBRiNBhixAxiDAcICCxAuGIAEGMcBGNEDmAMAkgcDMC41oAf7F7IHAzAuNbgHmwXCBwUyLjIuMcgHB4AIAQ&sclient=gws-wiz",
+  "screenshot": "screenshots\\cycle_001_20260920_151612\\SURGA88.png",
+  "results_count": 2,
+  "results": [
+    {
+      "rank": 1,
+      "title": "SURGA88 | Gerbang Petualangan Digital dengan Keseruan ...",
+      "url": "https://www.surga88.com/"
+    },
+    {
+      "rank": 2,
+      "title": "Heart Craft",
+      "url": "https://mariasplace.com/heart-craft/"
+    }
+  ]
+}

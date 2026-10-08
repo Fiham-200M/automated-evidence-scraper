@@ -1,0 +1,45 @@
+{
+  "index": 4,
+  "total": 54,
+  "brand": "ASIA300",
+  "status": {
+    "completed": 4,
+    "balance": 50,
+    "total": 54
+  },
+  "search_url": "https://www.google.com/search?q=ASIA300&sca_esv=a9d93d3da37a6f94&source=hp&ei=PXiratbFB5CphvcP2LuJsQ4&iflsig=ABILxe8AAAAAaquGTcUAuY7iVMUn0dmiZkU1vFU0EGgh&ved=0ahUKEwiW2Mrb7vSWAxWQlOEIHdhdIuYQ4dUDCBs&uact=5&oq=ASIA300&gs_lp=Egdnd3Mtd2l6IgdBU0lBMzAwMggQABiABBi0BzIFEAAYgARInxJQ8wNYwQxwAHgAkAEAmAGNAaABjgiqAQMwLji4AQPIAQD4AQGYAgigArYIqAICwgIREAAY5QYYigMY5wYY6gIYtALCAgoQABiABBiKBRhDwgIFEC4YgATCAgsQABiABBixAxiDAcICDhAAGIAEGIoFGLEDGIMBwgILEC4YgAQYsQMYgwHCAggQABiABBixA8ICEBAAGIAEGIoFGEMYsQMYgwHCAg4QLhiABBixAxjHARjRA8ICCBAuGIAEGLEDwgIREAAYgAQYigUYjQYYsQMYgwHCAgcQABiABBgKmAOFAfEFM4XN6JusjOKSBwMwLjigB_8tsgcDMC44uAe2CMIHBTIuNS4xyAcSgAgB&sclient=gws-wiz",
+  "screenshot": "screenshots\\ASIA300.png",
+  "results_count": 6,
+  "results": [
+    {
+      "rank": 1,
+      "title": "Asia300 - Nikkei Asia - 日本経済新聞",
+      "url": "https://asia.nikkei.com/asia300"
+    },
+    {
+      "rank": 2,
+      "title": "Asia300 Forum Gathers Asian Business and Political Leaders ...",
+      "url": "https://www.youtube.com/watch?v=8YdrNJuG3mk"
+    },
+    {
+      "rank": 3,
+      "title": "Slot Asia 300",
+      "url": "https://www.instagram.com/popular/slot-asia-300/"
+    },
+    {
+      "rank": 4,
+      "title": "Pharma & Healthcare Consulting Services",
+      "url": "https://www.i3consult.com/i3services/"
+    },
+    {
+      "rank": 5,
+      "title": "Bimini Top",
+      "url": "https://flexicovers.co.uk/product/bimini-top-23/"
+    },
+    {
+      "rank": 6,
+      "title": "ASIA300.official",
+      "url": "https://www.instagram.com/asia300.official/"
+    }
+  ]
+}
